@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MindsetT
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning masters in business information systems
-- 💞️ I’m looking to collaborate on Data engineering tasks/projects, or python tasks/projects, and c# projects
+- 💞️ I’m looking to collaborate on Programming tasks/projects, or python tasks/projects, and c# projects
 - 📫 Reach me on email: mindsetrambau@gmail.com
 
 <!---
